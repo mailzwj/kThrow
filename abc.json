@@ -1,0 +1,13 @@
+{
+    "name": "kThrow",
+    "version": "1.0",
+    "desc": "拖拽盒子并抛出去，模拟自然碰撞运动",
+    "cover": "",
+    "author": {
+        "name": "Letao",
+        "email": "mailzwj@126.com",
+        "page": "http://www.seejs.com"
+    },
+    "type": "kissy-pie",
+    "type-url": "http://abc.alibaba-inc.com/r/kissy-pie"
+}
