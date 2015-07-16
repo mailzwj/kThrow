@@ -1,8 +1,7 @@
 ## kThrow
 
 * 版本：1.0
-* 教程：[http://gallery.kissyui.com/kThrow/1.0/guide/index.html](http://gallery.kissyui.com/kThrow/1.0/guide/index.html)
-* demo：[http://gallery.kissyui.com/kThrow/1.0/demo/index.html](http://gallery.kissyui.com/kThrow/1.0/demo/index.html)
+* demo：[http://mailzwj.github.io/kThrow/1.0/demo/](http://mailzwj.github.io/kThrow/1.0/demo/)
 
 ## 使用方法
 
